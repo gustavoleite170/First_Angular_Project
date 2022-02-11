@@ -1,0 +1,7 @@
+{
+  "products": [
+    { "id": 1, "name": "Moto 500cv", "price": 15000 },
+    { "id": 2, "name": "Mackbook Pro", "price": 12000 },
+    { "id": 3, "name": "Uno 2009", "price": 5800 }
+  ]
+}
