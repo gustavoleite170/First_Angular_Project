@@ -1,6 +1,29 @@
-.material-icons {
-  font-size: 48px;
-  position: absolute;
-  top: 25rem;
-  left: 28rem;
+.header {
+  background-color: var(--ice-white);
+}
+
+.header .margins {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  gap: 1rem;
+}
+
+.margins a {
+  display: flex;
+  align-items: center;
+}
+
+h2 {
+  font: 700 3.2rem 'Poppins', sans-serif;
+}
+
+h2,
+i {
+  color: var(--color-dark);
+}
+
+h2 span {
+  color: var(--color-medium);
+  font-family: 'DM Sans', sans-serif;
 }
