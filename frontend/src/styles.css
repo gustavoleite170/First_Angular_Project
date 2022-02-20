@@ -20,10 +20,10 @@ body {
   /*==========MEASURES==========*/
 
   /*==========COLORS==========*/
-  --color: 0;
-  --color-light: hsl(var(--color), 100%, 75%, 1);
-  --color-medium: hsl(var(--color), 100%, 57%, 1);
-  --color-dark: hsl(var(--color), 100%, 10%, 1);
+  --color: 44;
+  --color-light: hsl(var(--color), 85%, 75%, 1);
+  --color-medium: hsl(var(--color), 85%, 55%, 1);
+  --color-dark: hsl(var(--color), 85%, 10%, 1);
   --ice-white: hsl(0, 0%, 98%, 1);
   --white: hsl(0, 0%, 100%, 1);
   --gray: #e4e4e4;
@@ -39,14 +39,18 @@ body {
   vertical-align: middle;
 }
 
-.red-light {
+.yellow-light {
   color: var(--color-light);
 }
 
-.red-medium {
+.yellow-medium {
   color: var(--color-medium);
 }
 
-.red-dark {
+.yellow-dark {
   color: var(--color-dark);
+}
+
+.white {
+  color: var(--white);
 }

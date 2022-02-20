@@ -9,6 +9,10 @@
   padding-right: 0.5rem;
 }
 
+.margins a img {
+  height: 6rem;
+}
+
 .margins a {
   display: flex;
   align-items: center;

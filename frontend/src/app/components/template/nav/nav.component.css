@@ -1,0 +1,18 @@
+.container {
+  width: 18rem;
+  height: calc(100vh - 5.6rem);
+}
+
+.sidenav {
+  width: 100%;
+}
+
+i {
+  padding-right: 1rem;
+}
+
+@media screen and (min-width: 600px) {
+  .container {
+    height: calc(100vh - 6.4rem);
+  }
+}
