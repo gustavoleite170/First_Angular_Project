@@ -34,3 +34,19 @@ body {
 .margins {
   margin: 0 2.3rem;
 }
+
+.v-middle {
+  vertical-align: middle;
+}
+
+.red-light {
+  color: var(--color-light);
+}
+
+.red-medium {
+  color: var(--color-medium);
+}
+
+.red-dark {
+  color: var(--color-dark);
+}
